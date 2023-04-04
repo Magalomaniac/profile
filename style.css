@@ -1,0 +1,95 @@
+header {
+	background-color: #333;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+    margin-bottom: 30px;
+}
+
+main {
+	margin: 20px;
+}
+
+.profile {
+	max-width: 600px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+
+.profile img {
+    margin-top: 200px;
+    border-radius: 50%;
+	width: 200px;
+	height: 150px;
+	object-fit: cover;
+	object-position: center;
+	margin-bottom: 20px;
+}
+.card img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+
+.profile h2 {
+	font-size: 2em;
+	margin-bottom: 10px;
+}
+
+.profile h3 {
+	font-size: 1.5em;
+	margin-bottom: 10px;
+}
+
+.profile p {
+	font-size: 1.2em;
+	margin-bottom: 20px;
+}
+
+.container2 {
+    border: 1px solid black;
+    padding: 10px;
+  }
+  
+.container2 h4 {
+    font-size: 1.2em;
+    text-decoration: underline;
+  }
+  
+  .container2 p2 {
+    font-size: 1.2em;
+    
+  }
+
+
+  .my-button {
+    margin-top: 20px;
+    background-color: #030503;
+    border: none;
+    color: white;
+    padding: 20px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+    margin-bottom: 25px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .my-button:hover {
+    background-color: #3e8e41;
+  }
+
+  .social-icons a i {
+    font-size: 44px;
+    color: #333;
+    transition: color 0.3s ease;
+  }
+  
+  .social-icons a:hover i {
+    color: #3e8e41;
+  }
+
+
